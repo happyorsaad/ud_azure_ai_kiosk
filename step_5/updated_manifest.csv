@@ -1,0 +1,6 @@
+	Flight No	Origin	Destination	Date	Time	First Name	Last Name	Sex	SeatNo	DateofBirth	DoBValidation	PersonValidation	LuggageValidation	NameValidation	BoardingPassValidation
+0	IN-123	Goa	Mumbai	10/01/21	10:00	Syed Saad	Hussain	M	10A	12/11/92	True	False	False	True	True
+1	IN-124	Jaipur	Bangalore	12/02/21	11:00	Alina	Kaifi	F	12B	15/12/92	False	False	False	False	False
+2	IN-125	Udaipur	Mumbai	14/12/21	12:00	Ali	Faraz	M	11E	16/12/92	False	False	False	False	False
+3	IN-126	New Delhi	Goa	10/06/21	13:00	Ali	Jaffar	M	13F	17/12/92	False	False	False	False	False
+4	IN-127	Mumbai	New Delhi	11/05/21	14:00	Muneer	Hasan	M	09A	18/12/92	False	False	False	False	False

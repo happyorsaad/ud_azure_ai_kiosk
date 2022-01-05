@@ -1,0 +1,2 @@
+1. The first issue was with the custom vision service. It was unable to give good results on test data. So I tried increasing the training time and tagged more data.
+2. The second issue was with the face detection API using the thumbnails extracted from video analyser. It was unable to resolve faces in some thumbnails. I added a try catch to train the person group only on faces that could be resolved.

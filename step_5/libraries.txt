@@ -1,0 +1,9 @@
+pandas
+PIL
+requests
+io
+matplotlib
+video_indexer
+azure.cognitiveservices.*
+azure.ai.*
+azure.core.*
